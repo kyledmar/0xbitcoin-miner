@@ -107,7 +107,7 @@ npm run test
 
 1. Zegordo (Developed the accelerated CPU Miner)
 
-        ETH address [0x8AE981d92875C88f713600EB7dC4D23FA7E0E621]
+        ETH address [0x7349f5428DdF46BE5FCDe26B79600E3734257773]
 
 
 
